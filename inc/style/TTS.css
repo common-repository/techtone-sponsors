@@ -1,0 +1,35 @@
+div[id^='TTS_sponsors_'] .clear{
+    display: block;
+    width: 100%;
+    clear: both;
+}
+div[id^='TTS_sponsors_'] .blockFix{
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 30px;
+}
+
+div[id^='TTS_sponsors_'] span{
+    display: inline-block;
+}
+
+div[id^='TTS_sponsors_'] a{
+    color: inherit;
+}
+
+div[id^='TTS_sponsors_'] h2{
+    font-size: 36px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+div[id^='TTS_sponsors_'] h2:after{
+    content: '';
+    position: absolute;
+    width: 150px;
+    bottom: -15px;
+    left: 50%;
+    margin-left: -75px;
+    border-bottom: 2px solid #555;
+}

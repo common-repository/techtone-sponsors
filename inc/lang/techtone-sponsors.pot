@@ -1,0 +1,21 @@
+# Copyright (C) 2013
+# This file is distributed under the same license as the package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TECHTONE\n"
+"Report-Msgid-Bugs-To: http://techtone.ca/\n"
+"POT-Creation-Date: 2016-08-18 11:57:00+03:00\n"
+"PO-Revision-Date: 2016-08-18 11:57:00+03:00\n"
+"Last-Translator: Alexander Shcherbakov <alex@techtone.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: .\n"
+
+# binaryLogin/binaryLogin.php:45
+msgid ""
+msgstr ""
+
